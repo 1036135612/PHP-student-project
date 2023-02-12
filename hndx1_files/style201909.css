@@ -1,0 +1,2034 @@
+
+
+
+
+body {
+	background: rgb(255, 255, 255); font: 14px/2 "Microsoft Yahei"; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; width: 100%; text-align: justify; color: rgb(49, 49, 49); position: relative; -ms-text-justify: inter-ideograph; font-size-adjust: none; font-stretch: normal;
+}
+div {
+	list-style: none; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; font-style: normal;
+}
+form {
+	list-style: none; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; font-style: normal;
+}
+img {
+	list-style: none; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; font-style: normal;
+}
+ul {
+	list-style: none; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; font-style: normal;
+}
+ol {
+	list-style: none; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; font-style: normal;
+}
+li {
+	list-style: none; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; font-style: normal;
+}
+dl {
+	list-style: none; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; font-style: normal;
+}
+dt {
+	list-style: none; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; font-style: normal;
+}
+dd {
+	list-style: none; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; font-style: normal;
+}
+em {
+	list-style: none; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; font-style: normal;
+}
+i {
+	list-style: none; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; font-style: normal;
+}
+cite {
+	list-style: none; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; font-style: normal;
+}
+h1 {
+	list-style: none; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; font-style: normal;
+}
+h2 {
+	list-style: none; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; font-style: normal;
+}
+h3 {
+	list-style: none; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; font-style: normal;
+}
+h4 {
+	list-style: none; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; font-style: normal;
+}
+h5 {
+	list-style: none; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; font-style: normal;
+}
+h6 {
+	list-style: none; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; font-style: normal;
+}
+p {
+	list-style: none; margin: 0px auto; padding: 0px; border: 0px currentColor; border-image: none; font-style: normal;
+}
+img {
+	vertical-align: top;
+}
+a:link {
+	color: rgb(49, 49, 49); text-decoration: none; cursor: pointer;
+}
+a:visited {
+	color: rgb(49, 49, 49); text-decoration: none; cursor: pointer;
+}
+a:hover {
+	color: rgb(133, 0, 0); text-decoration: none; cursor: pointer;
+}
+.dl-left {
+	float: left;
+}
+.dl-right {
+	float: right;
+}
+.div-100 {
+	width: 100%; overflow: hidden; clear: both;
+}
+.div-both {
+	width: 100%; clear: both; float: left; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.width-1 {
+	width: 1180px; overflow: hidden; clear: both;
+}
+.width-2 {
+	width: 1180px; clear: both;
+}
+.width-bg1 {
+	background: rgb(241, 241, 241); padding: 15px 0px 25px; width: 100%; min-width: 1180px;
+}
+.width-bg2 {
+	background-position: bottom; padding: 20px 0px 25px; width: 100%; min-width: 1180px; background-image: url("../imgs/day_cloud.png"), linear-gradient(180deg, rgb(2, 96, 172), rgb(57, 146, 224) 35%, rgb(156, 224, 254) 60%, rgb(239, 249, 253) 90%); background-attachment: fixed; background-repeat: no-repeat; background-size: auto, auto; background-origin: padding-box, padding-box; background-clip: border-box, border-box; background-color: transparent;
+}
+.home-left-1 {
+	width: 850px; overflow: hidden; float: left;
+}
+.home-right-1 {
+	width: 290px; overflow: hidden; float: right;
+}
+.home-left-2 {
+	width: 380px; float: left;
+}
+.home-center-2 {
+	width: 380px; margin-left: 25px; float: left;
+}
+.home-right-2 {
+	width: 370px; float: right;
+}
+.header-ct {
+	background: url("../imgs/head_ct.jpg"); height: 4px; line-height: 4px; overflow: hidden;
+}
+.footer-ct {
+	background: url("../imgs/head_ct.jpg"); height: 6px; line-height: 4px; overflow: hidden;
+}
+.min-w {
+	min-width: 1180px;
+}
+.f12 {
+	font-size: 12px;
+}
+.f12 td {
+	font-size: 12px;
+}
+.header-w {
+	background: url("../imgs/topleft.png") no-repeat -100px -50px rgb(0, 64, 152);
+}
+.header-w .width-1 {
+	background: url("../imgs/topright.png") no-repeat right -50px;
+}
+.header {
+	width: 100%; height: 125px; overflow: hidden;
+}
+.header .header-left {
+	width: 300px; float: left;
+}
+.header .header-left img {
+	width: 280px; margin-top: 20px; float: left;
+}
+.header .header-right {
+	width: 500px; padding-top: 15px; float: right;
+}
+.header .header-yd {
+	height: 42px; line-height: 42px; font-size: 13px; float: right;
+}
+.header .header-yd a {
+	color: rgb(255, 255, 255); margin-left: 20px; float: right;
+}
+.header .header-yd a:hover {
+	color: rgb(255, 168, 0);
+}
+.WebSo {
+	width: 350px; clear: both; margin-top: 2px; float: right;
+}
+.WebSo .so-style {
+	width: 240px; height: 32px; overflow: hidden; float: right; background-color: rgb(255, 255, 255);
+}
+.so-style .li-text input {
+	margin: 0px; padding: 2px 5px 2px 8px; border: currentColor; border-image: none; width: 191px; height: 30px; color: rgb(0, 64, 152); line-height: 30px; float: left; background-color: transparent;
+}
+.so-style .form_button {
+	margin: 0px; width: 36px; float: right; display: inline;
+}
+.WebSonews .so-style {
+	padding: 2px; border: 1px solid rgb(237, 237, 237); border-image: none; width: 280px; height: 32px; overflow: hidden; margin-top: 10px; float: right; background-color: rgb(243, 246, 248);
+}
+.imgxiao img {
+	transition:0.5s; moz-transition: all .5s ease 0s; -o-transition: all .1s ease 0s;
+}
+.imgxiao img:hover {
+	transform: scale(1.03); -webkit-transform: scale(1.03); -moz-transform: scale(1.08);
+}
+#gridlist1 {
+	width: 100%; overflow: hidden; clear: both; float: left;
+}
+#gridlist1 li {
+	width: 100%; overflow: hidden; display: block;
+}
+#gridlist1 li img {
+	width: 100%; height: 380px;
+}
+#gridlist1 li .InfoPicture {
+	display: block;
+}
+#gridlist1 li .InfoTitle {
+	padding: 0px; left: 0px; width: 100%; height: 55px; bottom: 0px; color: rgb(255, 255, 255); line-height: 55px; font-size: 15px; display: block; position: absolute; z-index: 1; background-color: rgba(0, 0, 0, 0.5);
+}
+#gridlist1 li .InfoTitle i {
+	width: 80%; overflow: hidden; padding-left: 10px; font-size: 15px; font-weight: bold; float: left; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+#gridlist1 a {
+	color: rgb(255, 255, 255);
+}
+#gridlist1 a:hover {
+	color: rgb(255, 248, 203);
+}
+#gridlist1 .prev:hover {
+	opacity: 0.8 !important;
+}
+#index_1_2 .next:hover {
+	opacity: 0.8 !important;
+}
+#gridlist1 {
+	width: 100%; height: 380px; overflow: hidden; float: left; position: relative;
+}
+#gridlist1 .next {
+	background: url("../imgs/index_1_2_next.png") no-repeat center; width: 18px; height: 55px; right: 4%; bottom: 0px; position: absolute; z-index: 10; cursor: pointer; opacity: 0.5 !important;
+}
+#gridlist1 .prev {
+	background: url("../imgs/index_1_2_prev.png") no-repeat center; width: 18px; height: 55px; right: 1%; bottom: 0px; position: absolute; z-index: 10; cursor: pointer; opacity: 0.5 !important;
+}
+#gridlist1 .pageState {
+	right: 8%; bottom: 0%; color: rgb(255, 255, 255); font-size: 15px; position: absolute; z-index: 10;
+}
+#gridlist1 .pageState span {
+	height: 55px; color: rgb(231, 31, 24); line-height: 55px; font-size: 15px; margin-right: 1px;
+}
+.headernav {
+	width: 100%; height: 52px; clear: both; min-width: 1180px;
+}
+.navz {
+	width: 100%; height: 52px; clear: both; position: relative; min-width: 1180px;
+}
+.headernav #fixed-logo {
+	display: none;
+}
+.clearfix::after {
+	height: 0px; clear: both; display: block; visibility: hidden; content: ".";
+}
+.nav {
+	transition:0.3s; width: 1180px; height: 52px; border-left-color: rgb(242, 242, 242); border-left-width: 1px; border-left-style: solid; position: relative; z-index: 100; min-width: 1180px; box-sizing: border-box; -webkit-text-size-adjust: none;
+}
+.nav a {
+	color: rgb(0, 0, 0);
+}
+.nav .nLi {
+	float: left; display: inline; position: relative;
+}
+.nav .nLi h3 {
+	font: 15px/52px Microsoft YaHei; width: 130px; height: 52px; text-align: center; border-right-color: rgb(242, 242, 242); border-right-width: 1px; border-right-style: solid; float: left; font-size-adjust: none; font-stretch: normal;
+}
+.nav .nLi h3 a {
+	display: block;
+}
+.nav .sub {
+	font: 13px/38px 微软雅黑; top: 52px; display: none; position: absolute; font-size-adjust: none; font-stretch: normal;
+}
+.nav .sub li {
+	-ms-zoom: 1;
+}
+.nav .sub a {
+	width: 130px; text-align: center; color: rgb(255, 255, 255); display: block; background-color: rgba(0, 0, 0, 0.9);
+}
+.nav .sub a:hover {
+	background: rgb(255, 96, 0); color: rgb(255, 255, 255);
+}
+.nav .on h3 a {
+	background: rgb(0, 64, 152); color: rgb(255, 255, 255);
+}
+.fixed-top {
+	top: 0px; position: fixed;
+}
+.demo-nav.fixed.fixed-top {
+	background: rgba(0, 64, 152, 0.9); padding: 0px; width: 100%; height: 60px; line-height: 60px; z-index: 999; box-shadow: 0px 3px 6px rgba(0,0,0,0.175); -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, .175);
+}
+.demo-nav.fixed.fixed-top img {
+	width: 150px; margin-top: 8px; margin-right: 10px;
+}
+.demo-nav.fixed.fixed-top .nav .nLi h3 a {
+	height: 60px; line-height: 60px;
+}
+.demo-nav.fixed.fixed-top .nav {
+	height: 60px; border-left-color: rgb(1, 61, 144); border-left-width: 0px; border-left-style: solid;
+}
+.demo-nav.fixed.fixed-top .nav a {
+	color: rgb(255, 255, 255);
+}
+.demo-nav.fixed.fixed-top .nav .nLi h3 {
+	height: 60px; border-right-color: rgb(1, 61, 144); border-right-width: 0px; border-right-style: solid;
+}
+.demo-nav.fixed.fixed-top #fixed-logo {
+	display: block;
+}
+.demo-nav.fixed.fixed-top .nav .nLi h3 {
+	width: 112px;
+}
+.demo-nav.fixed.fixed-top .sub a {
+	width: 112px;
+}
+.demo-nav.fixed.fixed-top .navz {
+	height: 60px; line-height: 60px;
+}
+.demo-nav.fixed.fixed-top .sub {
+	top: 60px;
+}
+#banner_main {
+	width: 100%; height: 400px; clear: both; position: relative; min-width: 1180px;
+}
+#banner_main img {
+	width: 100%; height: 400px;
+}
+#banner_main #banner {
+	margin: 0px auto; border: 0px solid red; border-image: none; width: 100%; overflow: hidden;
+}
+#banner_main .bannerlist li {
+	border: 0px dashed red; border-image: none; width: 100%; height: 400px; text-align: center; overflow: hidden; display: block; position: relative;
+}
+#banner_main .hd {
+	border: 0px solid red; border-image: none; left: 0px; width: 100%; height: 5px; text-align: center; bottom: 35px; line-height: 5px; position: relative;
+}
+#banner_main .hd ul li {
+	background: rgb(255, 255, 255); border-radius: 5px; width: 20px; height: 9px; overflow: hidden; font-size: 0px; margin-right: 6px; display: none; cursor: pointer; -ms-zoom: 1; -moz-border-radius: 5px; -webkit-border-radius: 5px;
+}
+#banner_main .hd ul li.on {
+	background: rgb(255, 255, 255); width: 40px; height: 9px;
+}
+#banner_main .prev {
+	background: url("../imgs/ad_ctr.png") no-repeat 0px 0px; margin: -40px 0px 0px; top: 50%; width: 40px; height: 60px; text-indent: -9999px; display: none; position: absolute; z-index: 10; cursor: pointer; opacity: 0.6;
+}
+#banner_main .next {
+	background: url("../imgs/ad_ctr.png") no-repeat 0px 0px; margin: -40px 0px 0px; top: 50%; width: 40px; height: 60px; text-indent: -9999px; display: none; position: absolute; z-index: 10; cursor: pointer; opacity: 0.6;
+}
+#banner_main .prev {
+	left: 0px;
+}
+#banner_main .next {
+	background-position: 0px -60px; right: 0px;
+}
+#banner_main .prev:hover {
+	opacity: 0.9 !important;
+}
+#banner_main .next:hover {
+	opacity: 0.9 !important;
+}
+#banner_main span {
+	background: url("../imgs/gunli.png") repeat-x; left: 0px; width: 100%; height: 30px; text-align: center; bottom: 0px; color: rgb(255, 255, 255); line-height: 30px; position: absolute;
+}
+#banner_main .bannerlist a {
+	width: 100%; height: 630px; display: block;
+}
+.slider {
+	background: rgb(255, 255, 255); width: 100%; height: 400px; text-align: center; overflow: hidden; position: relative; min-width: 1180px;
+}
+.slider .bd {
+	left: 50%; width: 1180px; margin-left: -590px; position: absolute;
+}
+.slider .bd li {
+	width: 1180px; overflow: hidden; position: relative;
+}
+.slider .bd li img {
+	width: 1180px; height: 400px; display: block;
+}
+.slider .tempWrap {
+	overflow: visible !important;
+}
+.slider .tempWrap ul {
+	margin-left: -1180px !important;
+}
+.slider .bd span {
+	padding: 5px 15px; border-radius: 2px; text-align: left; right: 20px; bottom: 20px; color: rgb(255, 255, 255); line-height: 30px; font-size: 15px; display: block; position: absolute; z-index: 20; box-sizing: border-box; background-color: rgba(0, 0, 0, 0.5); -webkit-text-size-adjust: none;
+}
+.slider .bd a span {
+	color: rgb(255, 255, 255);
+}
+.slider .bd a:hover span {
+	color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0.8);
+}
+.slider .hd {
+	left: 0px; width: 100%; height: 11px; text-align: center; bottom: 18px; position: absolute; z-index: 1;
+}
+.slider .hd li {
+	background: rgba(255, 255, 255, 0.2); border-radius: 5px; width: 11px; height: 11px; overflow: hidden; font-size: 0px; margin-right: 6px; display: inline-block; cursor: pointer; -ms-zoom: 1; -moz-border-radius: 5px; -webkit-border-radius: 5px;
+}
+.slider .hd li.on {
+	background: rgb(255, 97, 0); width: 18px; height: 11px;
+}
+.slider .pnBtn {
+	top: 0px; width: 100%; height: 400px; position: absolute; z-index: 1; cursor: pointer;
+}
+.slider .prev {
+	left: -50%; margin-left: -590px;
+}
+.slider .next {
+	left: 50%; margin-left: 590px;
+}
+.slider .pnBtn .blackBg {
+	background: rgb(0, 0, 0); left: 0px; top: 0px; width: 100%; height: 400px; display: block; position: absolute; opacity: 0.5;
+}
+.slider .pnBtn .arrow {
+	top: 0px; width: 60px; height: 400px; display: none; position: absolute; z-index: 1;
+}
+.slider .pnBtn .arrow:hover {
+	opacity: 0.6;
+}
+.slider .prev .arrow {
+	background: url("../imgs/slider-arrow.png") no-repeat -120px 0px; top: 160px; right: -56px;
+}
+.slider .next .arrow {
+	background: url("../imgs/slider-arrow.png") no-repeat 0px 0px; left: -56px; top: 160px;
+}
+.moreslider {
+	background: rgb(255, 255, 255); width: 100%; height: 388px; text-align: center; overflow: hidden; font-family: "Arial"; position: relative; min-width: 1180px;
+}
+.moreslider .bd {
+	left: 50%; width: 1180px; margin-left: -590px; position: absolute;
+}
+.moreslider .bd li {
+	width: 1180px; overflow: hidden; position: relative;
+}
+.moreslider .tempWrap {
+	overflow: visible !important;
+}
+.moreslider .tempWrap ul {
+	margin-left: -1180px !important;
+}
+.moreslider span {
+	width: 500px; height: 388px; float: left; display: block;
+}
+.moreslider span i {
+	width: 500px; height: 190px; float: left; display: block;
+}
+.moreslider span i:nth-child(1) {
+	margin-bottom: 8px;
+}
+.moreslider span img {
+	width: 100%; height: 190px;
+}
+.moreslider em {
+	width: 672px; margin-left: 8px; float: left; display: block;
+}
+.moreslider em img {
+	width: 100%; height: 388px;
+}
+.moreslider .hd {
+	left: 0px; width: 100%; height: 11px; text-align: center; bottom: 18px; position: absolute; z-index: 1;
+}
+.moreslider .hd li {
+	background: rgba(255, 255, 255, 0.2); border-radius: 5px; width: 11px; height: 11px; overflow: hidden; font-size: 0px; margin-right: 6px; display: inline-block; cursor: pointer; -ms-zoom: 1; -moz-border-radius: 5px; -webkit-border-radius: 5px;
+}
+.moreslider .hd li.on {
+	background: rgb(255, 97, 0); width: 18px; height: 11px;
+}
+.moreslider .pnBtn {
+	top: 0px; width: 100%; height: 400px; position: absolute; z-index: 1; cursor: pointer;
+}
+.moreslider .prev {
+	left: -50%; margin-left: -590px;
+}
+.moreslider .next {
+	left: 50%; margin-left: 590px;
+}
+.moreslider .pnBtn .blackBg {
+	background: rgb(0, 0, 0); left: 0px; top: 0px; width: 100%; height: 400px; display: block; position: absolute; opacity: 0.5;
+}
+.moreslider .pnBtn .arrow {
+	top: 0px; width: 60px; height: 400px; display: none; position: absolute; z-index: 1;
+}
+.moreslider .pnBtn .arrow:hover {
+	opacity: 0.6;
+}
+.moreslider .prev .arrow {
+	background: url("../imgs/slider-arrow.png") no-repeat -120px 0px; top: 152px; right: -56px;
+}
+.moreslider .next .arrow {
+	background: url("../imgs/slider-arrow.png") no-repeat 0px 0px; left: -56px; top: 152px;
+}
+.picScroll-top {
+	margin: 0px auto; width: 100%; height: 370px; overflow: hidden; position: relative;
+}
+.picScroll-top .hd {
+	padding: 0px; right: 0px; bottom: 0px; overflow: hidden; position: absolute;
+}
+.picScroll-top .hd .prev {
+	width: 9px; height: 5px; overflow: hidden; margin-top: 10px; margin-right: 5px; float: right; display: block; cursor: pointer;
+}
+.picScroll-top .hd .next {
+	width: 9px; height: 5px; overflow: hidden; margin-top: 10px; margin-right: 5px; float: right; display: block; cursor: pointer;
+}
+.picScroll-top .hd .next {
+	background-position: 0px -140px;
+}
+.picScroll-top .hd .prevStop {
+	background-position: -60px -100px;
+}
+.picScroll-top .hd .nextStop {
+	background-position: -60px -140px;
+}
+.picScroll-top .hd ul {
+	overflow: hidden; margin-top: 10px; float: right; -ms-zoom: 1;
+}
+.picScroll-top .hd ul li {
+	background: url("../imgs/icoCircle.gif") no-repeat 0px -9px; width: 9px; height: 9px; text-indent: -999px; overflow: hidden; margin-right: 5px; float: left; cursor: pointer;
+}
+.picScroll-top .hd ul li.on {
+	background-position: 0px 0px;
+}
+.picScroll-top .bd {
+	
+}
+.picScroll-top .bd div {
+	overflow: hidden; -ms-zoom: 1;
+}
+.picScroll-top .bd div li {
+	text-align: center; clear: both; margin-bottom: 8px; float: left; -ms-zoom: 1;
+}
+.picScroll-top .bd div li img {
+	border-radius: 4px; width: 100%; height: 110px; display: block;
+}
+.banner_x {
+	width: 100%; clear: both;
+}
+#banner_x {
+	width: 100%; overflow: hidden; clear: both; position: relative;
+}
+#banner_x #banner {
+	margin: 0px auto; border: 0px solid red; border-image: none; width: 100%; overflow: hidden;
+}
+#banner_x img {
+	width: 100%; height: 255px;
+}
+#banner_x .bannerlist li {
+	border: 0px dashed red; border-image: none; width: 100%; height: 255px; text-align: center; overflow: hidden; display: block; position: relative;
+}
+#banner_x .hd {
+	right: 7px; bottom: 10px; position: absolute;
+}
+#banner_x .hd ul li {
+	background: url("../imgs/slide_trigger.gif") no-repeat; width: 18px; height: 18px; text-align: center; color: rgb(195, 5, 0); line-height: 18px; overflow: hidden; font-family: "Arial","Arial"; font-size: 12px; margin-left: 4px; display: inline-block; cursor: pointer; -ms-zoom: 1;
+}
+#banner_x .hd ul li.on {
+	background: url("../imgs/slide_trigger_c.gif") no-repeat; width: 18px; height: 18px; color: rgb(255, 255, 255); line-height: 18px; font-size: 12px;
+}
+#banner_x span {
+	padding: 0px 10px; left: 0px; width: 100%; height: 50px; text-align: left; bottom: 0px; line-height: 50px; position: absolute; background-color: rgba(0, 0, 0, 0.5);
+}
+#banner_x a {
+	color: rgb(255, 255, 255);
+}
+#banner_x a:hover {
+	color: rgb(255, 180, 0);
+}
+#banner_x i {
+	width: 70%; overflow: hidden; float: left; display: block; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.banner_r {
+	width: 100%; clear: both;
+}
+#banner_r {
+	width: 100%; overflow: hidden; clear: both; position: relative;
+}
+#banner_r #banner {
+	margin: 0px auto; border: 0px solid red; border-image: none; width: 100%; overflow: hidden;
+}
+#banner_r img {
+	width: 100%; height: 255px;
+}
+#banner_r .bannerlist li {
+	border: 0px dashed red; border-image: none; width: 100%; height: 255px; text-align: center; overflow: hidden; display: block; position: relative;
+}
+#banner_r .hd {
+	right: 7px; bottom: 10px; position: absolute;
+}
+#banner_r .hd ul li {
+	background: url("../imgs/slide_trigger.gif") no-repeat; width: 18px; height: 18px; text-align: center; color: rgb(195, 5, 0); line-height: 18px; overflow: hidden; font-family: "Arial","Arial"; font-size: 12px; margin-left: 4px; display: inline-block; cursor: pointer; -ms-zoom: 1;
+}
+#banner_r .hd ul li.on {
+	background: url("../imgs/slide_trigger_c.gif") no-repeat; width: 18px; height: 18px; color: rgb(255, 255, 255); line-height: 18px; font-size: 12px;
+}
+#banner_r span {
+	padding: 0px 10px; left: 0px; width: 100%; height: 50px; text-align: left; bottom: 0px; line-height: 50px; position: absolute; background-color: rgba(0, 0, 0, 0.5);
+}
+#banner_r a {
+	color: rgb(255, 255, 255);
+}
+#banner_r a:hover {
+	color: rgb(255, 180, 0);
+}
+#banner_r i {
+	width: 70%; overflow: hidden; float: left; display: block; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.title-1 {
+	width: 100%; height: 55px; line-height: 50px; overflow: hidden; clear: both; float: left;
+}
+.title-1 ul {
+	color: rgb(0, 64, 152); float: left;
+}
+.title-1 ul i {
+	font-size: 25px; margin-right: 5px; float: left;
+}
+.title-1 ul b {
+	font-size: 20px; font-weight: 600; float: left;
+}
+.title-1 ol {
+	width: 50%; float: right;
+}
+.title-1 ol i {
+	font-size: 18px; margin-left: 2px; float: right;
+}
+.title-1 ol em {
+	font-size: 13px; float: right;
+}
+.title-1 ol a {
+	color: rgb(0, 64, 152);
+}
+.title-1 ol a:hover {
+	color: rgb(133, 0, 0);
+}
+.title-n1 {
+	background: rgb(208, 223, 252); height: 45px; line-height: 45px;
+}
+.title-n1 ul {
+	background: rgb(0, 64, 152); padding: 0px 18px; color: rgb(255, 255, 255); float: left;
+}
+.title-n1 ul i {
+	font-size: 22px; margin-right: 5px; float: left;
+}
+.title-n1 ul b {
+	font-size: 16px; font-weight: 600; float: left;
+}
+.title-n1 ul a {
+	color: rgb(255, 255, 255);
+}
+.title-n1 ul a:hover {
+	color: rgb(255, 96, 0);
+}
+.title-n1 ol {
+	width: 40%; text-align: right; padding-right: 8px; float: right;
+}
+.title-n1 ol i {
+	font-size: 18px; margin-left: 2px; float: right;
+}
+.title-n1 ol em {
+	font-size: 13px; float: right;
+}
+.title-n1 ol a {
+	color: rgb(0, 64, 152);
+}
+.title-n1 ol a:hover {
+	color: rgb(133, 0, 0);
+}
+.title-n2 {
+	background: rgb(237, 237, 237);
+}
+.title-n2 ul {
+	background: rgb(169, 36, 41);
+}
+.title-n3 {
+	height: 60px; text-align: center; line-height: 60px;
+}
+.title-n3 ul i {
+	padding-right: 3px; font-size: 20px;
+}
+.title-n3 ul b {
+	font-size: 18px; font-weight: normal;
+}
+.title-n3 ul a {
+	background: rgb(0, 64, 152); color: rgb(255, 255, 255); display: block;
+}
+.title-n3 ul a:hover {
+	background: rgb(0, 56, 133); color: rgb(255, 255, 255);
+}
+.title-3 {
+	width: 100%; height: 50px; line-height: 47px; overflow: hidden; clear: both; border-bottom-color: rgb(241, 241, 241); border-bottom-width: 1px; border-bottom-style: solid; float: left;
+}
+.title-3 ul {
+	color: rgb(0, 64, 152); border-bottom-color: rgb(0, 64, 152); border-bottom-width: 3px; border-bottom-style: solid; float: left;
+}
+.title-3 ul i {
+	font-size: 25px; margin-right: 5px; float: left;
+}
+.title-3 ul b {
+	font-size: 17px; font-weight: 600; float: left;
+}
+.title-3 ul strong {
+	font-size: 17px; font-weight: 600; float: left;
+}
+.title-3 ol {
+	width: 50%; float: right;
+}
+.title-3 ol i {
+	font-size: 18px; margin-left: 2px; float: right;
+}
+.title-3 ol em {
+	font-size: 13px; float: right;
+}
+.title-3 ol a {
+	color: rgb(0, 64, 152);
+}
+.title-3 ol a:hover {
+	color: rgb(133, 0, 0);
+}
+.download-list {
+	border: 1px solid rgb(238, 238, 238); border-image: none; width: 100%; overflow: hidden; clear: both; margin-top: 15px; float: left; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.download-list li {
+	padding: 6px 10px; width: 100%; clear: both; border-top-color: rgb(238, 238, 238); border-top-width: 1px; border-top-style: solid; float: left; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.download-list li:nth-child(1) {
+	border: 0px currentColor; border-image: none;
+}
+.download-list a {
+	float: left;
+}
+.download-list i {
+	font-size: 12px; float: right;
+}
+.news-hasPage select {
+	padding: 2px 8px; border: 1px solid rgb(238, 238, 238); border-image: none;
+}
+.news-list-vertical em {
+	width: 100%; line-height: 25px; overflow: hidden; clear: both; display: block;
+}
+.news-list-vertical em b {
+	overflow: hidden; font-weight: normal; vertical-align: middle; display: table-cell;
+}
+.news-list-vertical i {
+	height: 30px; text-align: right; color: rgb(162, 162, 162); line-height: 20px; clear: both; font-size: 12px; display: block;
+}
+.newspic-list-1 {
+	width: 100%; overflow: hidden;
+}
+.newspic-list-1 li {
+	width: 270px; height: 305px; margin-left: 20px; float: left;
+}
+.newspic-list-1 li:nth-child(3n+1) {
+	margin-left: 0px;
+}
+.newspic-list-1 li img {
+	width: 100%; height: 180px; clear: both;
+}
+.newspic-list-1 li a img {
+	border-bottom-color: rgb(0, 64, 152); border-bottom-width: 4px; border-bottom-style: solid;
+}
+.newspic-list-1 li a:hover img {
+	border-bottom-color: rgb(255, 97, 0); border-bottom-width: 4px; border-bottom-style: solid;
+}
+.newspic-list-1 li span {
+	width: 100%; padding-top: 8px; clear: both; float: left; display: block;
+}
+.newspic-list-1 span {
+	flex:1 1 0px; border-bottom-color: rgb(241, 241, 241); border-bottom-width: 1px; border-bottom-style: solid; min-width: 0px; -webkit-box-flex: 1; -webkit-flex: 1;
+}
+.newspic-list-1 em {
+	height: 50px;
+}
+.newspic-list-1 em b {
+	height: 50px;
+}
+.newspic-list-1 i {
+	padding-top: 10px;
+}
+.newswords-list-1 {
+	width: 100%; overflow: hidden;
+}
+.newswords-list-1 li {
+	width: 100%; height: 62px; margin-top: 12px; float: left;
+}
+.newswords-list-1 li:nth-child(1) {
+	margin-top: 0px;
+}
+.newswords-list-1 .datetime {
+	width: 60px; height: 62px; text-align: center; float: left; display: block;
+}
+.newswords-list-1 .datetime em {
+	background: rgb(0, 64, 152); height: 32px; color: rgb(255, 255, 255); line-height: 32px; font-size: 18px; font-weight: normal; display: block;
+}
+.newswords-list-1 .datetime i {
+	background: rgb(243, 243, 243); height: 30px; text-align: center; line-height: 30px; font-size: 12px; display: block;
+}
+.newswords-list-1 .newslines {
+	width: 220px; float: right;
+}
+.newswords-list-1 .newslines em {
+	height: 55px;
+}
+.newswords-list-1 .newslines em b {
+	height: 55px;
+}
+.newswords-list-2 {
+	width: 100%; overflow: hidden;
+}
+.newswords-list-2 li {
+	width: 100%; height: 50px; margin-top: 12px; float: left;
+}
+.newswords-list-2 .datetime {
+	background: rgb(241, 241, 241); width: 46px; height: 50px; text-align: center; float: left; display: block;
+}
+.newswords-list-2 .datetime em {
+	height: 22px; color: rgb(0, 64, 152); line-height: 22px; padding-top: 5px; font-size: 17px; font-weight: normal; display: block;
+}
+.newswords-list-2 .datetime i {
+	height: 18px; text-align: center; line-height: 18px; font-size: 12px; display: block;
+}
+.newswords-list-2 .newslines {
+	width: 323px; float: right;
+}
+.newswords-list-2 .newslines em {
+	height: 50px;
+}
+.newswords-list-2 .newslines em b {
+	height: 50px;
+}
+.newswords-list-3 {
+	background: rgb(241, 241, 241); padding: 5px 0px 5px 12px; overflow: hidden; border-top-color: rgb(0, 64, 152); border-top-width: 4px; border-top-style: solid;
+}
+.newswords-list-3 li {
+	width: 100%; height: 34px; line-height: 34px; clear: both; float: left;
+}
+.newswords-list-3 b {
+	width: 88%; overflow: hidden; font-weight: normal; float: left; display: block; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.newswords-list-3 i {
+	width: 40px; text-align: right; color: rgb(162, 162, 162); font-size: 12px; float: right;
+}
+.newswords-list-3 a {
+	background: url("../imgs/n21.png") no-repeat left; width: 95%; padding-left: 10px; clear: both; float: left;
+}
+.newswords-list-3 a:hover {
+	background: url("../imgs/n22.png") no-repeat left;
+}
+.news-height1 {
+	height: 205px;
+}
+.news-height2 {
+	background: rgb(255, 255, 255); height: 235px;
+}
+.news-height3 {
+	background: rgb(255, 255, 255); height: 355px;
+}
+.newswords-list-4 {
+	width: 100%; overflow: hidden;
+}
+.newswords-list-4 li {
+	background: rgb(255, 255, 255); width: 380px; height: 70px; margin-top: 15px; margin-left: 20px; float: left;
+}
+.newswords-list-4 li:nth-child(3n+1) {
+	margin-left: 0px;
+}
+.newswords-list-4 .datetime {
+	margin: 10px 0px; width: 70px; height: 50px; text-align: center; border-right-color: rgb(241, 241, 241); border-right-width: 1px; border-right-style: solid; float: left; display: block;
+}
+.newswords-list-4 .datetime em {
+	height: 30px; color: rgb(0, 64, 152); line-height: 30px; padding-top: 0px; font-size: 25px; font-weight: normal; display: block;
+}
+.newswords-list-4 .datetime i {
+	height: 18px; text-align: center; line-height: 18px; font-size: 12px; display: block;
+}
+.newswords-list-4 .newslines {
+	padding: 8px 15px 0px 0px; width: 280px; float: right;
+}
+.newswords-list-4 .newslines em {
+	height: 50px;
+}
+.newswords-list-4 .newslines em b {
+	height: 50px;
+}
+.newswords-list-4x li {
+	background: rgb(241, 241, 241); width: 420px; margin-left: 20px; float: left;
+}
+.newswords-list-4x li:nth-child(3n+1) {
+	margin-left: 20px;
+}
+.newswords-list-4x li:nth-child(2n+1) {
+	margin-left: 0px;
+}
+.newswords-list-4x .newslines {
+	width: 320px; float: right;
+}
+.newswords-list-4x .datetime {
+	border-right-color: rgb(233, 233, 233); border-right-width: 1px; border-right-style: solid;
+}
+.newspic-list-2 {
+	width: 100%; overflow: hidden;
+}
+.newspic-list-2 li {
+	background: rgb(255, 255, 255); width: 380px; height: 120px; margin-top: 20px; margin-left: 20px; float: left;
+}
+.newspic-list-2 li:nth-child(3n+1) {
+	margin-left: 0px;
+}
+.newspic-list-2 li img {
+	width: 180px; height: 120px; float: left;
+}
+.newspic-list-2 li span {
+	width: 180px; padding-top: 2px; padding-right: 10px; float: right; display: block;
+}
+.newspic-list-2 span {
+	flex:1 1 0px; min-width: 0px; -webkit-box-flex: 1; -webkit-flex: 1;
+}
+.newspic-list-2 em {
+	height: 80px; margin-top: 6px;
+}
+.newspic-list-2 em b {
+	height: 80px;
+}
+.newspic-list-2 i {
+	
+}
+.newspic-list-2one li {
+	background: rgb(241, 241, 241); margin-top: 15px; margin-left: 0px;
+}
+.newspic-list-2one li:nth-child(1) {
+	margin-top: 0px;
+}
+.newspic-list-2two li {
+	margin-top: 15px; margin-left: 0px;
+}
+.newspic-list-2two li:nth-child(1) {
+	margin-top: 0px;
+}
+.newswords-list-5 {
+	width: 100%; overflow: hidden;
+}
+.newswords-list-5 li {
+	background: rgb(255, 255, 255); width: 100%; height: 50px; margin-top: 12px; float: left;
+}
+.newswords-list-5 .datetime {
+	margin: 2px 0px; width: 46px; height: 46px; text-align: center; border-right-color: rgb(241, 241, 241); border-right-width: 1px; border-right-style: solid; float: left; display: block;
+}
+.newswords-list-5 .datetime em {
+	height: 22px; color: rgb(0, 64, 152); line-height: 22px; padding-top: 3px; font-size: 17px; font-weight: normal; display: block;
+}
+.newswords-list-5 .datetime i {
+	height: 18px; text-align: center; line-height: 18px; font-size: 12px; display: block;
+}
+.newswords-list-5 .newslines {
+	width: 313px; padding-right: 10px; float: right;
+}
+.newswords-list-5 .newslines em {
+	height: 50px;
+}
+.newswords-list-5 .newslines em b {
+	height: 50px;
+}
+.institution-list1 {
+	width: 100%;
+}
+.institution-list1 ul {
+	background: url("../imgs/lobobg1.png") no-repeat right bottom; padding: 0px; border: 1px solid rgb(241, 241, 241); border-image: none; width: 100%; overflow: hidden; float: left; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.institution-list1 ul li:nth-child(1) {
+	border-top-color: currentColor; border-top-width: 0px; border-top-style: none;
+}
+.institution-list1 ul li:nth-child(2n+1) {
+	background: rgba(228, 239, 255, 0.2);
+}
+.institution-list1 ul li {
+	width: 100%; height: 40px; line-height: 40px; overflow: hidden; padding-left: 20px; border-top-color: rgb(241, 241, 241); border-top-width: 1px; border-top-style: solid; float: left;
+}
+.institution-list1 a {
+	background: url("../imgs/n21.png") no-repeat left; width: 90%; padding-left: 12px; float: left; display: block;
+}
+.institution-list1 a:hover {
+	background: url("../imgs/n22.png") no-repeat left; display: block;
+}
+.institution-list2 {
+	width: 100%; overflow: hidden; clear: both;
+}
+.institution-list2 ul li {
+	margin: 10px 0px 0px 10px; width: 32.5%; line-height: 25px; overflow: hidden; float: left;
+}
+.institution-list2 ul li:nth-child(3n+1) {
+	margin-left: 0px;
+}
+.institution-list2 a {
+	background: url("../imgs/more11.png") no-repeat 223px 58px rgb(249, 249, 249); padding: 10px 15px; border: 1px solid rgb(241, 241, 241); border-image: none; width: 100%; height: 80px; float: left; display: block; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.institution-list2 a:hover {
+	background: url("../imgs/more12.png") no-repeat 223px 58px rgb(250, 252, 255); border: 1px solid rgb(236, 236, 236); border-image: none; display: block;
+}
+.slideTxtBox .hd {
+	width: 100%; height: 55px; line-height: 50px; overflow: hidden; clear: both; border-bottom-color: rgb(235, 235, 235); border-bottom-width: 1px; border-bottom-style: solid; position: relative;
+}
+.slideTxtBox .hd ul {
+	float: left; position: absolute;
+}
+.slideTxtBox .hd ul li {
+	height: 55px; text-align: center; margin-right: 40px; float: left; cursor: pointer;
+}
+.slideTxtBox .hd ul li a:link {
+	color: rgb(21, 127, 62);
+}
+.slideTxtBox .hd ul li.on {
+	height: 52px; text-align: center; color: rgb(0, 64, 152); border-bottom-color: rgb(0, 64, 152); border-bottom-width: 3px; border-bottom-style: solid;
+}
+.slideTxtBox .hd ul i {
+	font-size: 25px; margin-right: 5px; float: left;
+}
+.slideTxtBox .hd ul b {
+	font-size: 20px; font-weight: 600; float: left;
+}
+.slideTxtBox .hd ol {
+	width: 80px; float: right;
+}
+.slideTxtBox .hd ol i {
+	font-size: 18px; margin-left: 2px; float: right;
+}
+.slideTxtBox .hd ol em {
+	font-size: 13px; float: right;
+}
+.slideTxtBox .hd ol a {
+	color: rgb(0, 64, 152);
+}
+.slideTxtBox .hd ol a:hover {
+	color: rgb(133, 0, 0);
+}
+.ladyScroll {
+	width: 100%; height: 200px; overflow: hidden; position: relative;
+}
+.ladyScroll .prev {
+	background: rgb(241, 241, 241); left: 0px; top: 98px; width: 30px; height: 60px; text-align: center; color: rgb(0, 0, 0); line-height: 60px; position: absolute;
+}
+.ladyScroll .next {
+	background: rgb(241, 241, 241); top: 98px; width: 30px; height: 60px; text-align: center; right: 0px; color: rgb(0, 0, 0); line-height: 60px; position: absolute;
+}
+.ladyScroll .prev:hover {
+	background: rgb(0, 64, 152); color: rgb(255, 255, 255);
+}
+.ladyScroll .next:hover {
+	background: rgb(0, 64, 152); color: rgb(255, 255, 255);
+}
+.ladyScroll .scrollWrap {
+	width: 1100px; overflow: hidden; clear: both;
+}
+.ladyScroll .scrollWrap li {
+	margin: 0px 8px; width: 350px; height: 140px; text-align: center; float: left;
+}
+.ladyScroll .scrollWrap img {
+	border-radius: 4px; width: 100%; height: 140px; display: block;
+}
+#ladyw {
+	margin: 0px 8px; width: 350px; height: 140px; text-align: center; float: left;
+}
+.ladyScroll .hd {
+	width: 100%; height: 60px; line-height: 50px; overflow: hidden; clear: both; float: left;
+}
+.ladyScroll .hd ul {
+	overflow: hidden; margin-top: 25px; float: left; -ms-zoom: 1;
+}
+.ladyScroll .hd ul li {
+	background: url("../imgs/icoCircle.gif") no-repeat 0px -9px; width: 9px; height: 9px; text-indent: -999px; overflow: hidden; margin-right: 5px; float: left; cursor: pointer;
+}
+.ladyScroll .hd ul li.on {
+	background-position: 0px 0px;
+}
+.ladyScroll .hd ol {
+	overflow: hidden; margin-top: 10px; float: right; -ms-zoom: 1;
+}
+.ladyScroll .hd ol {
+	width: 40%; float: right;
+}
+.ladyScroll .hd ol i {
+	font-size: 18px; margin-left: 2px; float: right;
+}
+.ladyScroll .hd ol em {
+	font-size: 13px; float: right;
+}
+.ladyScroll .hd ol a {
+	color: rgb(0, 64, 152);
+}
+.ladyScroll .hd ol a:hover {
+	color: rgb(133, 0, 0);
+}
+.home-left-3 {
+	width: 550px; float: left;
+}
+.home-right-3 {
+	width: 590px; float: right;
+}
+.newmedia {
+	padding: 0px 2px 4px; width: 100%; overflow: hidden; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.newmedia dl {
+	padding: 15px 25px; border-radius: 8px; border: 1px solid rgb(243, 243, 243); border-image: none; width: 100%; overflow: hidden; float: left; min-height: 400px; box-sizing: border-box; box-shadow: 0px 0px 5px #f0f0f0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-shadow: 0px 0px 5px #f0f0f0; -moz-box-shadow: 0px 0px 5px #f0f0f0;
+}
+.newmedia ul {
+	width: 100%; clear: both; margin-top: 30px; float: left;
+}
+.newmedia ul:nth-child(1) {
+	margin-top: 10px;
+}
+.newmedia-left1 {
+	width: 90px; float: left;
+}
+.newmedia-left2 {
+	width: 210px; margin-left: 30px; float: left;
+}
+.newmedia-left3 {
+	width: 150px; float: right;
+}
+.newmedia-left1 img {
+	width: 100%;
+}
+.newmedia-left2 b {
+	background: rgb(241, 241, 241); padding: 0px 20px 0px 10px; border-radius: 4px; height: 32px; color: rgb(14, 65, 156); line-height: 32px; clear: both; float: left; display: block;
+}
+.newmedia-left2 b a {
+	color: rgb(14, 65, 156);
+}
+.newmedia-left2 b a:hover {
+	color: rgb(133, 0, 0);
+}
+.newmedia-left2 span {
+	width: 100%; clear: both; margin-top: 10px; float: left; display: block;
+}
+.newmedia-left3 b {
+	height: 32px; color: rgb(255, 255, 255); line-height: 32px; clear: both; margin-top: 10px; float: right; display: block;
+}
+.newmedia-left3 b a {
+	background: rgb(14, 65, 156); padding: 0px 20px; border-radius: 4px; color: rgb(255, 255, 255); display: block;
+}
+.newmedia-left3 b a:hover {
+	background: rgb(133, 0, 0); color: rgb(255, 255, 255);
+}
+.newmedia-left3 span {
+	width: 100%; height: 28px; line-height: 28px; clear: both; font-size: 13px; margin-top: 10px; float: right; display: block;
+}
+.newmedia-left3 i {
+	font-size: 16px; float: right;
+}
+.newmedia-left3 em {
+	margin-left: 3px; float: right;
+}
+.newmedia-left3 span a {
+	color: rgb(235, 83, 55);
+}
+.newmedia-left3 span a:hover {
+	color: rgb(133, 0, 0);
+}
+.iconnav {
+	background: url("../imgs/lobobg1.png") no-repeat right bottom; padding: 0px 2px 4px; width: 100%; overflow: hidden; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.iconnav dl {
+	padding: 15px 0px 15px 12px; border-radius: 8px; border: 1px solid rgb(243, 243, 243); border-image: none; width: 100%; overflow: hidden; float: left; min-height: 400px; box-sizing: border-box; box-shadow: 0px 0px 5px #f0f0f0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-shadow: 0px 0px 5px #f0f0f0; -moz-box-shadow: 0px 0px 5px #f0f0f0;
+}
+.iconnav li {
+	width: 112px; height: 123px; text-align: center; margin-top: 10px; float: left;
+}
+.iconnav li b {
+	height: 30px; line-height: 30px; font-weight: normal; display: block;
+}
+.iconnav li i {
+	border-radius: 50%; width: 80px; text-align: center; font-size: 38px; display: block;
+}
+.iconnav img {
+	width: 45px; height: 45px; padding-top: 18px; clear: both; display: block;
+}
+.iconnav a i {
+	background: rgb(237, 237, 237); width: 80px; height: 80px; color: rgb(14, 65, 156); line-height: 80px; display: block;
+}
+.iconnav a:hover i {
+	background: rgb(46, 90, 167); width: 80px; height: 80px; color: rgb(255, 255, 255); display: block;
+}
+.iconnav li:nth-child(1) a i {
+	background: rgb(241, 115, 92); color: rgb(255, 255, 255);
+}
+.iconnav li:nth-child(1) a:hover i {
+	background: rgb(234, 78, 78); color: rgb(255, 255, 255);
+}
+.iconnav li:nth-child(6) a i {
+	background: rgb(80, 182, 116); color: rgb(255, 255, 255);
+}
+.iconnav li:nth-child(6) a:hover i {
+	background: rgb(53, 160, 91); color: rgb(255, 255, 255);
+}
+.iconnav li:nth-child(11) a i {
+	background: rgb(35, 83, 167); color: rgb(255, 255, 255);
+}
+.iconnav li:nth-child(11) a:hover i {
+	background: rgb(14, 65, 154); color: rgb(255, 255, 255);
+}
+.iconnav li:nth-child(13) a i {
+	background: rgb(127, 198, 23); color: rgb(255, 255, 255);
+}
+.iconnav li:nth-child(13) a:hover i {
+	background: rgb(102, 169, 5); color: rgb(255, 255, 255);
+}
+.iconnav-3 li {
+	width: 85px; height: 90px; text-align: center; margin-top: 10px; float: left;
+}
+.iconnav-3 li b {
+	height: 30px; line-height: 30px; font-size: 12px; font-weight: normal; display: block;
+}
+.iconnav-3 li i {
+	border-radius: 50%; width: 50px; text-align: center; font-size: 28px; display: block;
+}
+.iconnav-3 img {
+	width: 30px; height: 30px; padding-top: 11px; clear: both; display: block;
+}
+.iconnav-3 a i {
+	background: rgb(237, 237, 237); width: 50px; height: 50px; color: rgb(14, 65, 156); line-height: 52px; display: block;
+}
+.iconnav-3 a:hover i {
+	background: rgb(46, 90, 167); width: 50px; height: 50px; color: rgb(255, 255, 255); display: block;
+}
+.layui-title {
+	color: rgb(5, 41, 107); font-size: 15px;
+}
+#layer-weibo {
+	display: none;
+}
+#layer-weibo img {
+	width: 200px; height: 200px;
+}
+#layer-weixin {
+	display: none;
+}
+#layer-weixin img {
+	width: 200px; height: 200px;
+}
+#useinfo {
+	display: none;
+}
+#useinfo ul {
+	background: url("../imgs/lobobg1.png") no-repeat right bottom; padding: 30px 100px 30px 20px; float: left;
+}
+#useinfo a {
+	background: url("../imgs/n21.png") no-repeat left; padding-left: 12px; display: block;
+}
+#useinfo a:hover {
+	background: url("../imgs/n22.png") no-repeat left; display: block;
+}
+#college {
+	display: none;
+}
+#college ul {
+	background: url("../imgs/lobobg1.png") no-repeat right bottom; padding: 20px 0px; width: 670px; float: left;
+}
+#college a {
+	background: url("../imgs/n21.png") no-repeat left; width: 190px; overflow: hidden; padding-left: 12px; margin-left: 20px; float: left; display: block; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+#college a:hover {
+	background: url("../imgs/n22.png") no-repeat left; display: block;
+}
+.footz {
+	background: url("../imgs/footerbj.jpg") top rgb(0, 64, 152); padding: 40px 0px 10px; width: 100%; height: 140px; color: rgb(255, 255, 255);
+}
+.foot-left {
+	width: 500px; float: left;
+}
+.foot-left ul {
+	width: 60px; float: left;
+}
+.foot-left ol {
+	width: 420px; float: right;
+}
+.foot-left ol li {
+	width: 100%; clear: both; float: left;
+}
+.foot-left ol span {
+	margin-right: 10px; float: left;
+}
+.foot-center {
+	width: 250px; margin-left: 20px; float: left;
+}
+.foot-center img {
+	width: 100%; margin-top: 20px; float: left;
+}
+.foot-right {
+	width: 200px; float: right;
+}
+.footz a {
+	color: rgb(255, 255, 255);
+}
+.footz a:hover {
+	color: rgb(255, 216, 0);
+}
+.images-list-1 {
+	width: 100%; overflow: hidden;
+}
+.images-list-1 li {
+	background: rgb(241, 241, 241); margin: 10px 0px 20px 20px; width: 250px; height: 300px; float: left;
+}
+.images-list-1 li img {
+	width: 100%; height: 160px; clear: both;
+}
+.images-list-1 li a img {
+	border-bottom-color: rgb(0, 64, 152); border-bottom-width: 4px; border-bottom-style: solid;
+}
+.images-list-1 li a:hover img {
+	border-bottom-color: rgb(255, 97, 0); border-bottom-width: 4px; border-bottom-style: solid;
+}
+.images-list-1 li span {
+	padding: 8px 25px; width: 100%; overflow: hidden; clear: both; float: left; display: block; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.images-list-1 b {
+	width: 100%; height: 40px; line-height: 40px; overflow: hidden; clear: both; font-size: 16px; display: block; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.images-list-1 em {
+	width: 100%; height: 50px; color: rgb(80, 80, 80); line-height: 25px; overflow: hidden; clear: both; display: block;
+}
+.images-list-1 i {
+	text-align: right; color: rgb(160, 160, 160); clear: both; font-size: 20px; float: right;
+}
+.images-list-2 {
+	width: 100%; overflow: hidden;
+}
+.images-list-2 li {
+	background: rgb(241, 241, 241); margin: 10px 0px 20px; width: 100%; height: 192px; overflow: hidden; float: left;
+}
+.images-list-2 li img {
+	width: 300px; height: 192px; float: left;
+}
+.images-list-2 li span {
+	padding: 10px 25px; width: 466px; float: right;
+}
+.images-list-2 b {
+	width: 100%; height: 40px; line-height: 40px; overflow: hidden; clear: both; font-size: 16px; display: block; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.images-list-2 em {
+	width: 100%; height: 100px; color: rgb(80, 80, 80); line-height: 25px; overflow: hidden; clear: both; display: block;
+}
+.images-list-2 i {
+	text-align: right; color: rgb(160, 160, 160); clear: both; font-size: 20px; float: right;
+}
+.images-list-3 {
+	width: 100%; overflow: hidden;
+}
+.images-list-3 li {
+	background: rgb(241, 241, 241); margin: 10px 0px; width: 100%; height: 160px; overflow: hidden; float: left;
+}
+.images-list-3 li img {
+	width: 250px; height: 160px; float: left;
+}
+.images-list-3 li span {
+	padding: 10px 15px 0px 0px; width: 530px; float: right;
+}
+.images-list-3 b {
+	width: 100%; height: 38px; line-height: 38px; overflow: hidden; clear: both; font-size: 16px; display: block; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.images-list-3 em {
+	width: 100%; height: 84px; color: rgb(80, 80, 80); overflow: hidden; clear: both; display: block;
+}
+.images-list-3 em a {
+	background: url("../imgs/n21.png") no-repeat left; width: 250px; height: 28px; line-height: 32px; overflow: hidden; padding-left: 12px; float: left; display: block;
+}
+.images-list-3 em a:hover {
+	background: url("../imgs/n22.png") no-repeat left;
+}
+.images-list-3 i {
+	text-align: right; color: rgb(160, 160, 160); clear: both; font-size: 20px; float: right;
+}
+.images-list-4 {
+	width: 100%; overflow: hidden;
+}
+.images-list-4 li {
+	background: rgb(241, 241, 241); margin: 10px 0px 20px; width: 100%; height: 140px; overflow: hidden; float: left;
+}
+.images-list-4 li img {
+	width: 350px; height: 140px; float: left;
+}
+.images-list-4 li span {
+	padding: 10px 25px; width: 415px; float: right;
+}
+.images-list-4 b {
+	width: 100%; height: 40px; line-height: 40px; overflow: hidden; clear: both; font-size: 16px; display: block; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.images-list-4 em {
+	width: 100%; height: 50px; color: rgb(80, 80, 80); line-height: 25px; overflow: hidden; clear: both; display: block;
+}
+.images-list-4 i {
+	text-align: right; color: rgb(160, 160, 160); clear: both; font-size: 20px; float: right;
+}
+.images-list-5 {
+	width: 100%; overflow: hidden;
+}
+.images-list-5 li {
+	background: rgb(241, 241, 241); margin: 10px 0px 20px 20px; width: 250px; height: 250px; float: left;
+}
+.images-list-5 li img {
+	width: 100%; height: 160px; clear: both;
+}
+.images-list-5 li span {
+	padding: 8px 25px; width: 100%; overflow: hidden; clear: both; float: left; display: block; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.images-list-5 b {
+	width: 100%; height: 45px; line-height: 22px; padding-top: 5px; clear: both; font-size: 15px; display: block;
+}
+.images-list-5 i {
+	text-align: right; color: rgb(160, 160, 160); clear: both; font-size: 20px; float: right;
+}
+.images-list-6 {
+	width: 580px; overflow: hidden;
+}
+.images-list-6 li {
+	background: rgb(241, 241, 241); margin: 10px 0px 20px; width: 580px; height: 340px; overflow: hidden; clear: both; float: left; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.images-list-6 li img {
+	width: 100%; height: 255px; clear: both;
+}
+.images-list-6 li span {
+	padding: 8px 25px; width: 100%; overflow: hidden; clear: both; float: left; display: block; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.images-list-6 b {
+	width: 100%; height: 40px; line-height: 40px; overflow: hidden; clear: both; font-size: 16px; display: block; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.images-list-6 i {
+	text-align: right; color: rgb(160, 160, 160); clear: both; font-size: 20px; float: right;
+}
+.layui-img img {
+	width: 100%;
+}
+.about-axis {
+	padding: 20px 0px; overflow: hidden;
+}
+.about-axis li {
+	background: url("../imgs/nx.gif") repeat-y 4px 0px; padding: 0px 0px 20px; width: 92%; overflow: hidden; clear: both;
+}
+.aboutaxis-date {
+	width: 100%; height: 50px; text-align: left; color: rgb(162, 162, 162); line-height: 50px; clear: both; font-size: 26px; float: left;
+}
+.aboutaxis-div {
+	background: url("../imgs/n31.png") no-repeat 0px 20px; width: 95%; padding-left: 20px; clear: both; float: left;
+}
+.aboutaxis-text {
+	width: 100%; display: block;
+}
+.aboutaxis-text img {
+	padding: 3px; border: 1px solid rgb(241, 241, 241); border-image: none; width: 200px; margin-right: 20px; float: left;
+}
+.about-text {
+	padding: 30px 0px 20px; width: 95%; line-height: 26px; overflow: hidden; font-size: 15px; min-height: 500px;
+}
+.about-text img {
+	max-width: 800px;
+}
+.about-pic img {
+	padding: 3px; border: 1px solid rgb(241, 241, 241); border-image: none; margin-left: 10px;
+}
+.about-pic .title img {
+	border: 0px currentColor; border-image: none;
+}
+about-content {
+	width: 100%; overflow: hidden; clear: both;
+}
+.news-dtitle {
+	height: 40px; line-height: 40px; font-size: 17px;
+}
+.about-now-leader {
+	width: 100%; overflow: hidden;
+}
+.about-now-leader .dl-left {
+	width: 48%;
+}
+.about-now-leader .dl-right {
+	width: 48%;
+}
+.about-now-leader li {
+	padding: 10px 15px; border: 1px solid rgb(241, 241, 241); border-image: none; width: 100%; overflow: hidden; margin-bottom: 15px; float: left; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.about-now-leader b {
+	width: 100%; color: rgb(0, 74, 176); display: block;
+}
+.about-now-leader strong {
+	width: 100%; color: rgb(0, 74, 176); display: block;
+}
+.about-now-leader span {
+	width: 100%; text-indent: 2em; padding-top: 10px; font-size: 14px; display: block;
+}
+.about-41 th {
+	text-align: center;
+}
+.about-41 em {
+	text-align: center; color: rgb(19, 77, 140); display: block;
+}
+.about-51 {
+	width: 100%; clear: both; float: left;
+}
+.about-51 img {
+	padding: 3px; border: 1px solid rgb(241, 241, 241); border-image: none; width: 300px; margin-left: 50px; float: left;
+}
+.about-52 {
+	padding: 20px 0px; width: 100%; clear: both;
+}
+.about52-tab-title .layui-this {
+	background: linear-gradient(180deg, rgb(239, 245, 254), rgb(239, 245, 254) 10%, rgb(255, 255, 255) 60%); color: rgb(0, 64, 152); font-weight: bold;
+}
+.about-52 ul {
+	width: 220px; float: left;
+}
+.about-52 ul img {
+	padding: 3px; border: 1px solid rgb(241, 241, 241); border-image: none; width: 210px;
+}
+.about-52 ol {
+	width: 570px; padding-top: 20px; float: right;
+}
+.about-download a {
+	color: rgb(255, 255, 255);
+}
+.about-download a:hover {
+	color: rgb(255, 236, 129);
+}
+.about-download b {
+	color: rgb(0, 64, 152);
+}
+.about-download img {
+	width: 120px;
+}
+.about-download tbody tr:hover {
+	background-color: rgb(250, 252, 255);
+}
+.about-22 b {
+	color: rgb(0, 64, 152);
+}
+.about-22 span {
+	padding: 5px 0px; line-height: 20px; display: block;
+}
+.about-22 a {
+	background: url("../imgs/n21.png") no-repeat left; padding-left: 12px; display: block;
+}
+.about-22 a:hover {
+	background: url("../imgs/n22.png") no-repeat left;
+}
+.about-22 tbody tr:nth-child(2n) {
+	background-color: rgb(252, 252, 252);
+}
+.about-22 tbody tr:hover {
+	background-color: rgb(250, 252, 255);
+}
+.about-title1 ul {
+	height: 50px; color: rgb(0, 64, 152); line-height: 50px; font-size: 18px; font-weight: bold; border-bottom-color: rgb(0, 64, 152); border-bottom-width: 2px; border-bottom-style: solid; float: left; display: block;
+}
+.about-61 i {
+	text-align: center; display: block;
+}
+.header-news {
+	width: 100%; height: 46px; line-height: 46px; overflow: hidden;
+}
+.header-news .header-left {
+	width: 350px; float: left;
+}
+.header-news .header-right {
+	width: 500px; float: right;
+}
+.header-news .header-yd {
+	height: 46px; line-height: 46px; font-size: 13px; float: right;
+}
+.header-news .header-yd a {
+	color: rgb(255, 255, 255); margin-left: 20px; float: right;
+}
+.header-news .header-yd a:hover {
+	color: rgb(255, 168, 0);
+}
+.news-logo {
+	width: 100%; height: 110px; overflow: hidden; clear: both;
+}
+.news-logo ul {
+	width: 350px; margin-top: 18px; float: left;
+}
+.news-logo ul img {
+	width: 100%;
+}
+.news-logo ol {
+	width: 800px; margin-top: 25px; float: right;
+}
+.news-nav {
+	background: url("../imgs/topright.png") no-repeat bottom rgb(0, 64, 152); padding: 15px 0px 25px; width: 100%; overflow: hidden;
+}
+.news-nav ul {
+	width: 100%; clear: both; font-size: 15px;
+}
+.news-nav ul a {
+	width: 110px; height: 40px; text-align: left; line-height: 40px; overflow: hidden; margin-left: 26px; float: left;
+}
+.news-nav ul b {
+	width: 100%; overflow: hidden; clear: both; font-size: 15px; display: block;
+}
+.news-nav ul span {
+	width: 100%; overflow: hidden; clear: both; margin-left: 13px; display: block; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.news-nav a {
+	color: rgb(255, 255, 255); display: block;
+}
+.news-nav a:hover {
+	color: rgb(255, 180, 0);
+}
+.news-nav ol {
+	height: 50px; color: rgb(255, 255, 255); line-height: 50px; clear: both; margin-left: 20px; float: left;
+}
+.news-nav ol i {
+	font-size: 18px; margin-right: 4px; float: left;
+}
+.news-nav ol b {
+	font-size: 22px; font-weight: normal; float: left;
+}
+.header-newmedia b {
+	font-weight: normal; margin-right: 15px; float: left;
+}
+.header-newmedia img {
+	width: 26px; height: 26px; margin-top: 9px; float: left;
+}
+.header-newmedia i {
+	font-size: 25px;
+}
+.header-newmedia a {
+	color: rgb(255, 255, 255);
+}
+.header-newmedia a:hover {
+	color: rgb(255, 168, 0);
+}
+.fixed-top {
+	top: 0px; position: fixed;
+}
+.demonews-nav.fixed.fixed-top {
+	background: url("../imgs/topright.png") no-repeat bottom rgb(0, 64, 152); padding: 0px; width: 280px; border-bottom-color: rgb(0, 54, 129); border-bottom-width: 4px; border-bottom-style: solid; z-index: 999;
+}
+.demonews-nav.fixed.fixed-top img {
+	width: 150px; margin-top: 8px; margin-right: 10px;
+}
+.demonews-nav.fixed.fixed-top .nav .nLi h3 a {
+	height: 60px; line-height: 60px;
+}
+.demonews-nav.fixed.fixed-top .nav {
+	height: 60px; border-left-color: rgb(1, 61, 144); border-left-width: 0px; border-left-style: solid;
+}
+.demonews-nav.fixed.fixed-top .nav a {
+	color: rgb(255, 255, 255);
+}
+.demonews-nav.fixed.fixed-top .nav .nLi h3 {
+	height: 60px; border-right-color: rgb(1, 61, 144); border-right-width: 0px; border-right-style: solid;
+}
+.demonews-nav.fixed.fixed-top #fixed-logo {
+	display: block;
+}
+.demonews-nav.fixed.fixed-top .nav .nLi h3 {
+	width: 112px;
+}
+.demonews-nav.fixed.fixed-top .sub a {
+	width: 112px;
+}
+.demonews-nav.fixed.fixed-top .navz {
+	height: 60px; line-height: 60px;
+}
+.demonews-nav.fixed.fixed-top .sub {
+	top: 60px;
+}
+.news-left-w1 {
+	background: rgb(255, 255, 255); padding: 10px; width: 100%; overflow: hidden; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.news-w1 {
+	width: 100%; clear: both; float: left;
+}
+.news-left-1 {
+	width: 280px; overflow: hidden; float: left;
+}
+.news-right-1 {
+	background: rgb(255, 255, 255); padding: 10px; width: 860px; overflow: hidden; float: right;
+}
+.newsright-left1 {
+	width: 380px; float: left;
+}
+.newsright-right1 {
+	width: 462px; float: right;
+}
+.newsright-left2 {
+	width: 420px; float: left;
+}
+.newsright-right2 {
+	width: 420px; float: right;
+}
+.newswords-list-w1 .newslines {
+	width: 210px; float: right;
+}
+.newswords-list-w2 .newslines {
+	width: 360px; float: right;
+}
+.newswords-list-3tx {
+	padding: 10px 0px 13px 12px; border-top-color: rgb(0, 64, 152); border-top-width: 0px; border-top-style: solid;
+}
+.newswords-list-3tx a {
+	width: 97%;
+}
+.newswords-list-4tx {
+	padding: 10px 0px 13px 12px; border-top-color: rgb(0, 64, 152); border-top-width: 0px; border-top-style: solid;
+}
+.newswords-list-4tx a {
+	width: 90%;
+}
+.newswords-list-axis {
+	overflow: hidden;
+}
+.newswords-list-axis li {
+	background: url("../imgs/nx.gif") repeat-y 4px 10px; padding: 0px 0px 10px; width: 100%; line-height: 25px; clear: both; float: left;
+}
+.newswords-list-axis b {
+	width: 95%; clear: both; font-weight: normal; float: left;
+}
+.newswords-list-axis i {
+	text-align: left; color: rgb(162, 162, 162); clear: both; font-size: 12px; float: left;
+}
+.newswords-list-axis a {
+	background: url("../imgs/n31.png") no-repeat 0px 8px; width: 95%; padding-left: 20px; clear: both; float: left;
+}
+.newswords-list-axis a:hover {
+	background: url("../imgs/n32.png") no-repeat 0px 8px;
+}
+.newswords-list-axis em {
+	color: rgb(255, 97, 0); font-size: 12px;
+}
+.newswords-list-axis span i {
+	color: rgb(255, 97, 0);
+}
+.newspic-list-n2 {
+	width: 100%; overflow: hidden;
+}
+.newspic-list-n2 li {
+	background: rgb(241, 241, 241); width: 420px; height: 110px; margin-top: 10px; margin-left: 20px; float: left;
+}
+.newspic-list-n2 li:nth-child(2n+1) {
+	margin-left: 0px;
+}
+.newspic-list-n2 li:nth-child(4) {
+	margin-left: 20px;
+}
+.newspic-list-n2 li:nth-child(10) {
+	margin-left: 20px;
+}
+.newspic-list-n2 li img {
+	width: 165px; height: 110px; float: left;
+}
+.newspic-list-n2 li span {
+	width: 230px; display: block;
+}
+.newswords-list-n2 .newslines {
+	width: 400px; float: right;
+}
+.newspic-list-n3 li:nth-child(2n) {
+	margin-left: 0px;
+}
+.slidenewsBox .hd {
+	background: rgb(208, 223, 252); width: 100%; height: 45px; line-height: 45px; overflow: hidden; clear: both; position: relative;
+}
+.slidenewsBox .hd ul {
+	float: left; position: absolute;
+}
+.slidenewsBox .hd ul li {
+	padding: 0px 18px; height: 45px; text-align: center; float: left; cursor: pointer;
+}
+.slidenewsBox .hd ul li a:link {
+	color: rgb(21, 127, 62);
+}
+.slidenewsBox .hd ul li.on {
+	background: rgb(0, 64, 152); height: 45px; text-align: center; color: rgb(255, 255, 255);
+}
+.slidenewsBox .hd ul i {
+	font-size: 22px; margin-right: 5px; float: left;
+}
+.slidenewsBox .hd ul b {
+	font-size: 16px; font-weight: 600; float: left;
+}
+.slidenewsBox .hd ol {
+	width: 80px; margin-right: 6px; float: right;
+}
+.slidenewsBox .hd ol i {
+	font-size: 18px; margin-left: 2px; float: right;
+}
+.slidenewsBox .hd ol em {
+	font-size: 13px; float: right;
+}
+.slidenewsBox .hd ol a {
+	color: rgb(0, 64, 152);
+}
+.slidenewsBox .hd ol a:hover {
+	color: rgb(133, 0, 0);
+}
+
+.slidenewsBox2 .hd{background:#FFF;margin-bottom:12px}
+.slidenewsBox2 .hd ul li{ float:left;cursor:pointer;height:42px;;text-align:center;padding:0px 27px;border-bottom:3px #004098 solid }
+.slidenewsBox2 .hd a i{color:#000}
+.slidenewsBox2 .hd a b{color:#000}
+.slidenewsBox2 .hd ul li{background:#f1f1f1}
+.slidenewsBox2 .hd ul li.on i{color:#FFF}
+.slidenewsBox2 .hd ul li.on b{color:#FFF}
+
+.slidenewsBox3{width:96%}
+.slidenewsBox3 .hd{background:#FFF;margin-bottom:12px;margin-top:20px;}
+.slidenewsBox3 .hd ul li{ float:left;cursor:pointer;height:42px;;text-align:center;padding:0px 27px;background:#f1f1f1;margin-right:6px}
+.slidenewsBox3 .hd a i{color:#000}
+.slidenewsBox3 .hd a b{color:#000}
+.slidenewsBox3 .hd ul li.on{height:42px;text-align:center;background:#004098;}
+.slidenewsBox3 .hd ul li.on b{color:#FFF}
+
+.news-lm{margin:30px 0px 0px 20px;clear:both;float:left}
+	.news-lm li{float:left;cursor:pointer;height:42px;line-height:42px;text-align:center;background:#f1f1f1;margin-right:6px;font-size:15px}
+	.news-lm .lm-on{height:42px;text-align:center;background:#004098;}
+	.news-lm .lm-on a{color:#FFF}
+	.news-lm a{padding:0px 27px;display:block}
+	.news-lm a:hover{height:42px;text-align:center;background:#004098;display:block;color:#FFF}
+	.news-lm i{font-size:12px;margin-right:3px;display:block;float:left;height:40px;line-height:42px}
+
+
+#iFocus {
+	background: rgb(241, 241, 241); width: 100%; height: 530px; overflow: hidden; position: relative;
+}
+#iFocus ul {
+	width: 100%; height: 530px; position: absolute; z-index: 88;
+}
+#iFocus ul li {
+	width: 100%; height: 530px; overflow: hidden; float: left; position: relative; z-index: 81;
+}
+#iFocus ul li img {
+	width: 100%; height: 380px; vertical-align: middle;
+}
+#iFocus ul li span {
+	padding: 15px 20px 0px; width: 100%; overflow: hidden; clear: both; display: block; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+#iFocus ul li em {
+	width: 100%; height: 20px; color: rgb(255, 60, 0); line-height: 20px; clear: both; font-size: 13px; font-weight: normal; float: left;
+}
+#iFocus ul li b {
+	width: 100%; height: 36px; line-height: 36px; overflow: hidden; clear: both; font-size: 18px; font-weight: normal; float: left; display: block; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+#iFocus ul li i {
+	width: 100%; height: 66px; color: rgb(162, 162, 162); line-height: 22px; overflow: hidden; clear: both; font-size: 13px; font-weight: normal; float: left;
+}
+#iFocus .btnBg {
+	left: 0px; width: 100%; height: 65px; bottom: 0px; position: absolute; z-index: 89;
+}
+#iFocus .btn {
+	left: 0px; width: 100%; height: 65px; text-align: left; bottom: 155px; position: absolute; z-index: 90; cursor: pointer;
+}
+#iFocus .btn span {
+	width: 70px; height: 65px; text-align: center; color: rgb(255, 255, 255); margin-left: 5px; float: left; display: block; cursor: pointer; background-color: rgba(8, 75, 157, 0.8); _display: inline; _zoom: 1;
+}
+#iFocus .btn span em {
+	height: 32px; line-height: 32px; padding-top: 8px; font-size: 32px; font-weight: normal; display: block;
+}
+#iFocus .btn span i {
+	height: 20px; text-align: center; line-height: 20px; font-size: 12px; display: block;
+}
+#iFocus .btn span.on {
+	width: 70px; height: 65px; color: rgb(255, 255, 255); cursor: pointer; background-color: rgba(255, 158, 13, 0.8);
+}
+#iFocus .pnBtn {
+	width: 70px; height: 35px; right: 0px; bottom: 130px; line-height: 35px; overflow: hidden; position: absolute; z-index: 999;
+}
+#iFocus .pnBtn ol {
+	width: 100%; float: right;
+}
+#iFocus .pnBtn li {
+	width: 30px; height: 35px; text-align: center; color: rgb(255, 255, 255); overflow: hidden; margin-right: 5px; float: right; display: inline; cursor: pointer;
+}
+#iFocus .pnBtn li.prev {
+	background-color: rgba(8, 75, 157, 0.8);
+}
+#iFocus .pnBtn li.next {
+	background-color: rgba(8, 75, 157, 0.8);
+}
+#iFocus .pnBtn li.prev:hover {
+	background-color: rgba(255, 158, 13, 0.8);
+}
+#iFocus .pnBtn li.next:hover {
+	background-color: rgba(255, 158, 13, 0.8);
+}
+.special-list {
+	width: 100%;
+}
+.special-list img {
+	width: 100%;
+}
+.special-list span {
+	margin-top: 10px; float: left;
+}
+.special-list span:nth-child(1) {
+	margin-top: 0px;
+}
+.news-list1 {
+	width: 100%; float: left;
+}
+.news-list1 li {
+	background: rgb(241, 241, 241); padding: 0px 20px; width: 100%; overflow: hidden; clear: both; margin-top: 10px; float: left; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.news-list1 li a {
+	padding: 5px 0px 10px; width: 100%; float: left; display: block;
+}
+.news-list1 span {
+	height: 20px; color: rgb(105, 105, 105); line-height: 20px; clear: both; font-size: 12px; margin-top: 8px; float: right; display: block;
+}
+.news-list1 span i {
+	font-size: 15px; margin-top: 1px; margin-right: 2px; margin-left: 25px; float: left;
+}
+.news-list1 span em {
+	float: left;
+}
+.news-list1 li .pic {
+	width: 180px; overflow: hidden; float: left;
+}
+.news-list1 li .txt {
+	color: rgb(69, 69, 69); line-height: 22px; padding-bottom: 10px; font-size: 13px; float: right;
+}
+.news-list1 li .pic img {
+	width: 100%; font-family: "object-fit:cover"; object-fit: cover;
+}
+.pic-li .txt {
+	width: 76%;
+}
+.nopic-li .txt {
+	width: 100% !important;
+}
+.news-list1 .news-title {
+	width: 100%; height: 46px; line-height: 46px; overflow: hidden; clear: both; font-size: 16px; font-weight: bold; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.news-list1 a .news-title {
+	background: url("../imgs/n31.png") no-repeat left; width: 99%; padding-left: 16px;
+}
+.news-list1 a:hover .news-title {
+	background: url("../imgs/n32.png") no-repeat left;
+}
+.news-list2 {
+	padding: 10px 10px 0px; width: 100%; overflow: hidden; clear: both; float: left; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.news-list2 li {
+	width: 100%; overflow: hidden; float: left; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.news-list2 li a {
+	padding: 0px; width: 100%; float: left; display: block;
+}
+.news-list2 span {
+	width: 70px; height: 20px; text-align: right; color: rgb(105, 105, 105); line-height: 20px; font-size: 12px; margin-top: 8px; float: right; display: block;
+}
+.news-list2 span i {
+	font-size: 15px; margin-top: 1px; margin-right: 2px; margin-left: 25px; float: left;
+}
+.news-list1 span em {
+	float: left;
+}
+.news-list2 .news-title {
+	width: 80%; height: 33px; text-align: left; line-height: 33px; overflow: hidden; font-size: 15px; float: left; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.news-list2 li:nth-child(5n) {
+	height: 43px; border-bottom-color: rgb(229, 229, 229); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+.news-list2 li:nth-child(5n+1) {
+	padding-top: 10px;
+}
+.news-list2 a .news-title {
+	background: url("../imgs/n31.png") no-repeat left; padding-left: 16px;
+}
+.news-list2 a:hover .news-title {
+	background: url("../imgs/n32.png") no-repeat left;
+}
+.info-list1 {
+	padding: 40px 0px 20px; width: 95%; text-align: center; line-height: 38px;
+}
+.info-list1 h1 {
+	font-size: 22px;
+}
+.info-tips {
+	background: rgb(241, 241, 241); width: 95%; height: 30px; text-align: center; line-height: 30px; overflow: hidden; font-size: 12px;
+}
+.info-text {
+	padding: 20px 0px; width: 95%; line-height: 26px; overflow: hidden; font-size: 16px;
+}
+.info-text img {
+	max-width: 800px;
+}
+.info-share {
+	width: 100%; text-align: right; padding-top: 10px; clear: both;
+}
+.info-share div {
+	float: right;
+}
+.pages {
+	padding: 30px 0px 30px 13px; width: 100%; height: 26px; clear: both; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.pages a {
+	background: rgb(241, 241, 241); padding: 3px 12px; height: 26px; text-align: center; line-height: 26px; display: block;
+}
+.pages span {
+	margin-right: 5px; float: left; display: block;
+}
+.pages a:hover {
+	background: rgb(168, 35, 40); color: rgb(255, 255, 255); text-decoration: none;
+}
+.pages .p_no_d {
+	background: rgb(168, 35, 40); padding: 3px 12px; height: 26px; text-align: center; color: rgb(255, 255, 255); line-height: 26px; text-decoration: none; display: block;
+}
+.pages-more {
+	padding: 30px 0px; width: 100%; height: 26px; clear: both;
+}
+.pages-more div {
+	float: right;
+}
+.layui-laypage a:hover {
+	color: rgb(255, 97, 0);
+}
+.layui-laypage .layui-laypage-curr .layui-laypage-em {
+	padding: 1px; left: -1px; top: -1px; width: 100%; height: 100%; position: absolute; background-color: rgb(255, 97, 0);
+}
+.about-text table {
+	width: 100%; margin-top: 20px; border-top-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-left-style: solid; border-spacing: 0;
+}
+.about-text tr {
+	background-position: 0% 0%; height: 30px; border-bottom-color: rgb(187, 187, 187); border-left-color: rgb(187, 187, 187); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid; background-attachment: scroll; background-repeat: repeat-x;
+}
+.about-text th {
+	padding: 5px; border-right-color: rgb(187, 187, 187); border-bottom-color: rgb(187, 187, 187); border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; background-color: rgb(238, 238, 238);
+}
+.about-text td {
+	padding: 5px; border-right-color: rgb(187, 187, 187); border-bottom-color: rgb(187, 187, 187); border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid;
+}
+.margin-t10 {
+	margin-top: 10px;
+}
+.margin-t15 {
+	margin-top: 15px;
+}
+.margin-t20 {
+	margin-top: 20px;
+}
+.margin-t30 {
+	margin-top: 30px;
+}
+.margin-t40 {
+	margin-top: 40px;
+}
+.margin-t50 {
+	margin-top: 50px;
+}
+.padding-b30 {
+	padding-bottom: 30px;
+}
+.margin-b20 {
+	margin-bottom: 20px;
+}
+.title-4 {
+	width: 100%; text-align: center; overflow: hidden; border-bottom-color: rgb(241, 241, 241); border-bottom-width: 1px; border-bottom-style: solid;
+}

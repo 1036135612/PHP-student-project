@@ -1,0 +1,50 @@
+@charset "utf-8";
+body {
+	margin: 0px;
+	padding: 0px;font-family: microsoft yahei;
+}
+ul {
+	margin: 0px;
+	padding: 0px;
+}
+ul li { list-style:none;
+	margin: 0px;
+	padding: 0px;
+}
+div{ margin:auto;}
+.site-loginbg{font-family: microsoft yahei; padding-top:250px; background:url("../image/site-loginbg.jpg") no-repeat; min-height:700px;}
+
+.site-loginbg .login-wid{ padding:25px 60px; border-top:#65cb5e 5px solid; width:320px; background-color:#fff;}
+.site-loginbg .login-wid h1 { font-weight:normal; font-size:24px; color:#898989; padding:0px 0 20px 0;}
+.site-loginbg .login-wid ul li.windx{}
+.site-loginbg .login-wid ul li{ overflow:hidden;  margin-bottom:12px; font-size:12px; line-height:40px;}
+
+.site-loginbg .login-wid ul li .lita{ padding-right:15px; position:absolute; z-index:2; background:url("../image/site-loginimg.png") 16px 13px no-repeat; padding-left:45px; line-height:43px; color:#b5b5b5;} 
+.site-loginbg .login-wid ul li .lita.a1{ background-position: 16px -50px;}
+.site-loginbg .login-wid ul li .lita.a2{    background-position: 16px -109px;}
+.site-loginbg .login-wid ul li .rita{ }
+.site-loginbg .login-wid ul li .rita input{font-family: microsoft yahei; width:220px; font-size:12px; color:#b5b5b5; height:40px; line-height:40px; border:0px; background:none; text-indent:95px; width:318px;    border:#e5e5e5 1px solid;
+border-radius:5px;
+-o-border-radius:5px;
+-moz-border-radius:5px;
+-webkit-border-radius:5px;
+}
+
+.site-loginbg .login-wid ul li .rita input.xux{ text-indent: 166px;}
+.site-loginbg .login-wid .subt{font-family: microsoft yahei; width:220px; font-size:12px; color:#fff; height:40px; line-height:40px; border:0px; background:none;width:320px; border-radius:5px;   border:#fff 1px solid; display:block; text-align:center; background-color:#65cb5e; border-bottom:5px solid #5db658; margin-top:10px;}
+.site-loginbg .login-wid .subt:hover{ background-color:#4fca47;}
+.site-loginbg .login-wid ul li .at{ color:#eb6100; display:block; margin-left:75px; background:url("../image/site-loginimg1.png")  left 0px no-repeat; line-height:18px; padding-left:20px; margin-top:8px;}
+::-webkit-input-placeholder { /* WebKit browsers */  
+    color:    #b5b5b5;  
+}  
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */  
+   color:    #b5b5b5;  
+   opacity:  1;  
+}  
+::-moz-placeholder { /* Mozilla Firefox 19+ */  
+   color:    #b5b5b5;  
+   opacity:  1;  
+}  
+:-ms-input-placeholder { /* Internet Explorer 10+ */  
+   color:    #b5b5b5;  
+}
